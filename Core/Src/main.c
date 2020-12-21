@@ -102,6 +102,7 @@ int main(void)
   {
     HAL_Delay(200);
     Dut_Tx_String("this is dut applicatioin\n");
+    Dut_Tx_String("dut pring demo\n");
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
